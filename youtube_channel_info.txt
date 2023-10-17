@@ -1,26 +1,8 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-
-연합뉴스TV | 韩国 |  |
-https://www.youtube.com/watch?v=0GN8t2u3flc/live
-
-CCTV4 | China |  |
-https://www.youtube.com/watch?v=QTz6avPD4Ns
-4K | 4k |  |
-https://www.youtube.com/watch?v=rw7bxTqkYYs
-
-4K | 4k |  |
-https://www.youtube.com/watch?v=tAuXNZ5TSlA
-
-空间站1 | 世界 |  |
-https://www.youtube.com/watch?v=mBzrxNHF2u8
-
-空间站2 | 世界 |  |
-https://www.youtube.com/watch?v=ddZu_1Z3BAc
-
 中天新闻 |台湾||
-https://www.youtube.com/watch?v=_QbRXRnHMVY
+https://www.youtube.com/watch?v=oIgbl7t0S_w
 
 TVBS |台湾||
 https://www.youtube.com/watch?v=2mCSYvcfhtc
@@ -35,26 +17,13 @@ https://www.youtube.com/watch?v=FoBfXvlOR6I
 https://www.youtube.com/watch?v=TCnaIE_SAtM
 
 寰宇新聞台 |台湾||
-https://www.youtube.com/watch?v=B7Zp3d6xXWw
+https://www.youtube.com/watch?v=6IquAgfvYmc
 
 全球新聞1900 |台湾||
 https://www.youtube.com/watch?v=uEvsh6_TGbU
 
-YTN | 韩国 |  |
-https://www.youtube.com/watch?v=FJfwehhzIhw
-
-KBS | 韩国 |  |
-https://www.youtube.com/watch?v=Wg6NbD344DY
-
-熊猫直播  |世界||
-https://www.youtube.com/watch?v=gNGolYPBy2E
-
-ABC  |英语||
-https://www.youtube.com/watch?v=gNGolYPBy2E
-
 凤凰卫视资讯  |香港||
 https://www.youtube.com/watch?v=bYBjjtgKUnM
 
-Tokyo
+Tokyo  |日本||
 https://www.youtube.com/watch?v=-S4wpZdVqaM&t=26s
-
